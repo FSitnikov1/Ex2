@@ -10,6 +10,10 @@ a:visited {
     color: rgb(116, 30, 196);
 }
 
+a{
+    margin-right: 5px;
+}
+
 body {
     background-color: burlywood;
     display: flex;
